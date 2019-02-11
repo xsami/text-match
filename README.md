@@ -1,6 +1,6 @@
 # Auth with React Router V4 and Firebase V3
 This is an example repo for authenticating with Firebase and React Router.
-This app will be usefull if you need to match especific words with some text, I made this code long time ago for a class project and you can test the app online on this url: https://textmatch-3e220.firebaseapp.com/. Cheers and happy coding.
+This app will be usefull if you need to match especific words with some text, I made this code long time ago for a class project and you can test the app online on this url: https://textmatch-3e220.firebaseapp.com/. Cheers and happy coding. You may need to create a project in file base and use the keey in the /Config/ directory of this project
 
 For more info, visit [Protected routes and authentication with React Router v4](https://tylermcginnis.com/react-router-protected-routes-authentication/)
 
